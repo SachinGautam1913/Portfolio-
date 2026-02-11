@@ -88,7 +88,7 @@ export default function Hero() {
 
             {/* Subheading */}
             <h2 className="text-xl md:text-2xl text-[hsl(180,100%,50%)]/80 mb-6 font-semibold">
-              Full-Stack Developer • UI/UX Designer • Tech Builder
+              Full-Stack Developer • UI/UX Designer • Tech Builder • App Developer 
             </h2>
 
             {/* Tagline */}
