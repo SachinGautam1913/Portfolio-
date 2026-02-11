@@ -166,7 +166,7 @@ export default function Hero() {
                  }}>
               
               <Image
-                src="https://c4.wallpaperflare.com/wallpaper/835/254/325/gigabyte-aorus-logo-pc-gaming-wallpaper-preview.jpg"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnRzi0BfrNs0PkhNv_bw6WYw-Uxu3nPbFQ3A&s"
                 alt="Futuristic tech workspace with holographic UI and neon elements"
                 fill
                 className="object-cover w-full h-full hover:scale-110 transition-transform duration-700"
@@ -201,14 +201,14 @@ export default function Hero() {
       </div>
 
       {/* Scroll indicator */}
-      <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
+     {/*} <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
         <div className="flex flex-col items-center gap-2">
           <p className="text-xs text-muted-foreground">Scroll to explore</p>
           <div className="w-6 h-10 border-2 border-[hsl(207,100%,50%)] rounded-full flex justify-center">
             <div className="w-1 h-2 bg-[hsl(207,100%,50%)] rounded-full mt-2 animate-pulse" />
           </div>
         </div>
-      </div>
+      </div>*/}
 
       <style jsx>{`
         @keyframes float {
