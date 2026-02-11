@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react'
 import { ArrowRight, Github, Linkedin, Mail, Sparkles } from 'lucide-react'
 import Image from 'next/image'
+import Link from 'next/link'
 
 export default function Hero() {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 })
@@ -18,13 +19,6 @@ export default function Hero() {
     window.addEventListener('mousemove', handleMouseMove)
     return () => window.removeEventListener('mousemove', handleMouseMove)
   }, [])
-
-  const scrollToSection = (sectionId: string) => {
-    const element = document.getElementById(sectionId)
-    if (element) {
-      element.scrollIntoView({ behavior: 'smooth' })
-    }
-  }
 
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-16">
@@ -98,19 +92,19 @@ export default function Hero() {
 
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4 mb-16">
-              <button
-                onClick={() => scrollToSection('projects')}
+              <Link
+                href="/projects"
                 className="btn-neon-primary group"
               >
                 View My Work
                 <ArrowRight className="inline-block ml-2 group-hover:translate-x-1 transition-transform" size={20} />
-              </button>
-              <button
-                onClick={() => scrollToSection('contact')}
+              </Link>
+              <Link
+                href="/contact"
                 className="btn-neon-secondary"
               >
                 Hire Me
-              </button>
+              </Link>
             </div>
 
             {/* Social Links */}
