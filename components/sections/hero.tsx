@@ -126,7 +126,7 @@ export default function Hero() {
                   <Github size={20} className="group-hover:text-[hsl(207,100%,50%)] transition-colors" />
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/sachin-gautam11110112/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 rounded-lg border border-secondary hover:border-[hsl(207,100%,50%)] hover:bg-[hsl(207,100%,50%)]/10 transition-smooth group"
@@ -134,7 +134,7 @@ export default function Hero() {
                   <Linkedin size={20} className="group-hover:text-[hsl(207,100%,50%)] transition-colors" />
                 </a>
                 <a
-                  href="mailto:hello@example.com"
+                  href="mailto:sgautam7507@gmail.com"
                   className="p-3 rounded-lg border border-secondary hover:border-[hsl(207,100%,50%)] hover:bg-[hsl(207,100%,50%)]/10 transition-smooth group"
                 >
                   <Mail size={20} className="group-hover:text-[hsl(207,100%,50%)] transition-colors" />
