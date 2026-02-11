@@ -118,7 +118,7 @@ export default function Hero() {
               <p className="text-muted-foreground text-sm font-medium">Let's connect</p>
               <div className="flex gap-3">
                 <a
-                  href="https://github.com"
+                  href="https://github.com/SachinGautam1913"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 rounded-lg border border-secondary hover:border-[hsl(207,100%,50%)] hover:bg-[hsl(207,100%,50%)]/10 transition-smooth group"
