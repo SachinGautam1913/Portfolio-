@@ -9,7 +9,7 @@ export default function Blog() {
       excerpt: 'Explore advanced patterns for building performant, scalable applications with the latest Next.js features and best practices.',
       date: 'Mar 15, 2024',
       category: 'Next.js',
-      readTime: '8 min read',
+      readTime: '5 min read',
       slug: '#',
       featured: true,
     },
