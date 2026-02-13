@@ -18,7 +18,7 @@ export default function Blog() {
       excerpt: 'Deep dive into optimizing Core Web Vitals and achieving excellent performance scores.',
       date: 'Mar 10, 2024',
       category: 'Performance',
-      readTime: '6 min read',
+      readTime: '6 min read with code examples',
       slug: '#',
     },
     {
