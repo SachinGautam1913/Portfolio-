@@ -5,17 +5,17 @@ export default function Skills() {
     {
       title: 'Frontend',
       color: 'hsl(207, 100%, 50%)',
-      skills: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion', 'Zustand'],
+      skills: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion', 'Vue.js',, 'GraphQL', 'Apollo Client'],
     },
     {
       title: 'Backend',
       color: 'hsl(280, 100%, 50%)',
-      skills: ['Node.js', 'Express', 'Python', 'PostgreSQL', 'MongoDB', 'REST APIs'],
+      skills: ['Node.js', 'Express', , 'PostgreSQL', 'MongoDB', 'REST APIs', 'GraphQL', 'Prisma',],
     },
     {
       title: 'Tools & Platforms',
       color: 'hsl(180, 100%, 50%)',
-      skills: ['Git', 'Docker', 'Vercel', 'AWS', 'Firebase', 'Figma'],
+      skills: ['Git', 'Docker', 'Vercel', 'AWS', 'Firebase', 'Figma',]
     },
     {
       title: 'Design',

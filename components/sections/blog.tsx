@@ -22,8 +22,8 @@ export default function Blog() {
       slug: '#',
     },
     {
-      title: 'React Server Components: A Game Changer for Full-Stack Development',
-      excerpt: 'Understanding RSC and how it transforms the way we build full-stack applications.',
+      title: 'React Server Components: A Game Changer for Full-Stack Development ',
+      excerpt: 'Understanding RSC and how it transforms the way we build full-stack applications with.',
       date: 'Feb 28, 2024',
       category: 'React',
       readTime: '7 min read',
