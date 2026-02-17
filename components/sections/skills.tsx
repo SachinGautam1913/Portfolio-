@@ -20,7 +20,7 @@ export default function Skills() {
     {
       title: 'Design',
       color: 'hsl(30, 100%, 50%)',
-      skills: ['UI Design', 'UX Research', 'Wireframing', 'Prototyping', 'A/B Testing', 'Accessibility'],
+      skills: ['UI Design', 'UX Research', 'Wireframing', 'Prototyping', 'A/B Testing', 'Accessibility', 'Design Systems', 'Figma',],
     },
   ]
 
