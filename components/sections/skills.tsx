@@ -15,7 +15,7 @@ export default function Skills() {
     {
       title: 'Tools & Platforms',
       color: 'hsl(180, 100%, 50%)',
-      skills: ['Git', 'Docker', 'Vercel', 'AWS', 'Firebase', 'Figma',]
+      skills: ['Git', 'Docker', 'Vercel', 'AWS', 'Firebase', 'Figma','GitHub Actions', 'Canva','GitLab CI/CD',],
     },
     {
       title: 'Design',
