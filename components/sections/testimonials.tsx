@@ -10,7 +10,7 @@ export default function Testimonials() {
       role: 'CEO, TechStartup Inc',
       company: 'TechStartup Inc',
       content:
-        'Working with this developer was a game-changer for our project. They understood our vision, communicated clearly, and delivered exceptional results ahead of schedule.',
+        'Working with this developer was a game-changer for our project. They understood our vision, communicated clearly, and delivered exceptional results ahead of schedule and deadlines.',
       rating: 5,
       image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop',
     },
