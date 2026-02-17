@@ -6,7 +6,7 @@ export default function Blog() {
   const posts = [
     {
       title: 'Building Scalable Web Applications with Next.js 14',
-      excerpt: 'Explore advanced patterns for building performant, scalable applications with the latest Next.js features and best practices.',
+      excerpt: 'Explore advanced patterns for building performant, scalable applications with the latest Next.js features and best practices with Next.js 14',
       date: 'Mar 15, 2024',
       category: 'Next.js',
       readTime: '5 min read',
