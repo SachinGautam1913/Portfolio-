@@ -26,7 +26,7 @@ export default function Testimonials() {
     },
     {
       id: 3,
-      name: 'Emma Wilson',
+      name: 'Comming Soon',
       role: 'Founder, E-Commerce Platform',
       company: 'ShopHub',
       content:
