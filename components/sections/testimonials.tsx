@@ -16,7 +16,7 @@ export default function Testimonials() {
     },
     {
       id: 2,
-      name: 'Michael Chen',
+      name: 'Comming Soon',
       role: 'Product Manager, Digital Agency',
       company: 'Creative Digital',
       content:
