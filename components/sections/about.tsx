@@ -7,7 +7,7 @@ export default function About() {
   const resumeLink = "https://drive.google.com/file/d/1Jzk9Gp9NQpPvi7AmQZrmQhhIidbCjpVd/view?usp=drive_link"
 
   // 🔥 Replace with your startup website link
-  const startupLink = "https://yourstartupwebsite.com"
+  const startupLink = "https://sachingautam.tech/"
 
   return (
     <section className="py-20 md:py-32 relative overflow-hidden">
